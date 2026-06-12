@@ -1,0 +1,4 @@
+metric,key,best_mean,best_std,worst_mean,worst_std,p_value,significant,threshold
+Solid fraction ¦Õ,solid_frac,0.1483,0.0027,0.0609,0.0011,0.0,***,0.08
+Porosity,porosity,0.8517,0.0027,0.9391,0.0011,0.0,***,0.85
+Wall thickness (mm),wall_t_mm,0.7631,0.0783,0.079,0.0,0.0,***,0.5
