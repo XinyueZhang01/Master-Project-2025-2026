@@ -1,0 +1,9 @@
+model_file,analysis_family,expected_export,notes
+D:\BaiduNetdiskDownload\model_t0p5_n4done.mph,mechanical,force_displacement or global reaction-force table,0.5 mm wall-thickness n=4 model
+D:\BaiduNetdiskDownload\model_t0p5_n3done.mph,mechanical,force_displacement or global reaction-force table,0.5 mm wall-thickness n=3 model
+D:\BaiduNetdiskDownload\model_t1p5_n3done.mph,mechanical,force_displacement or global reaction-force table,1.5 mm wall-thickness n=3 model
+D:\BaiduNetdiskDownload\model_t1p5_n4done.mph,mechanical,force_displacement or global reaction-force table,1.5 mm wall-thickness n=4 model
+D:\BaiduNetdiskDownload\gyroiddiffusion15666done.mph,oxygen_3d,cut-line or volume concentration profile,3D gyroid oxygen diffusion model
+D:\BaiduNetdiskDownload\gyroiddiffusion15668.mph,oxygen_3d,cut-line or volume concentration profile,3D gyroid oxygen diffusion model
+D:\BaiduNetdiskDownload\gyroiddiffusion157.5x3.mph,oxygen_3d,cut-line or volume concentration profile,3D gyroid oxygen diffusion model
+D:\BaiduNetdiskDownload\gyroidmodel.mph,geometry,geometry/mesh summary,gyroid CAD/COMSOL base model
